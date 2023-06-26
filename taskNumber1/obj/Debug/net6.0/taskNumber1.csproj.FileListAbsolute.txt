@@ -1,0 +1,15 @@
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\bin\Debug\net6.0\taskNumber1.exe
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\bin\Debug\net6.0\taskNumber1.deps.json
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\bin\Debug\net6.0\taskNumber1.runtimeconfig.json
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\bin\Debug\net6.0\taskNumber1.dll
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\bin\Debug\net6.0\taskNumber1.pdb
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.csproj.AssemblyReference.cache
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.AssemblyInfoInputs.cache
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.AssemblyInfo.cs
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.csproj.CoreCompileInputs.cache
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.dll
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\refint\taskNumber1.dll
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.pdb
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\taskNumber1.genruntimeconfig.cache
+C:\Users\zahar\Documents\C#_Gb\Seminars\Seminar2\taskNumber1\obj\Debug\net6.0\ref\taskNumber1.dll
